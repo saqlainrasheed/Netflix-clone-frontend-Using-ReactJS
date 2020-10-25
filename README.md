@@ -11,7 +11,7 @@
 > ### API's
 
 - TMDB (The movie database) - API
-  #>## Libraries
+> ### Libraries
 - React-Youtube (Library)
 - Movie-trailer (Library)
 - Axios (Library for fetching api)
