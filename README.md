@@ -1,5 +1,6 @@
-# Netflix Clone FrontEnd
+# Netflix Clone FrontEnd 
 
+[Visit site](https://netflix-clone681.netlify.app/)
 > ### Technologies used
 
 - React JS
