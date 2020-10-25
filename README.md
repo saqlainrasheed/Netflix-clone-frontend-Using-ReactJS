@@ -8,6 +8,7 @@
 - CSS3
 - Javascript
 - JSX
+- React Hooks
 
 > ### API's
 
